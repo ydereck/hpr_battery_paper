@@ -1,2 +1,5 @@
-# hpr_battery_paper
-SGE conference draft on Hornsdale Power Reserve, FCAS prices, and counterfactual dispatch in the NEM
+# Battery Entry and the Cost of Grid Stability
+
+Conference draft by Dereck Yang.
+
+This paper studies how the entry of the Hornsdale Power Reserve affected FCAS and energy prices in South Australia, using counterfactual dispatch in Australia’s National Electricity Market.
